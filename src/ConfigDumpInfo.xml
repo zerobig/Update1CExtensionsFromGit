@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.ОбнРасшGit_Расширения" id="1894fb7a-a406-4e17-8617-520056e881eb" configVersion="719e304cc9487343ccd8c34747754788d3089f72">
+			<Metadata name="Catalog.ОбнРасшGit_Расширения.Attribute.Обновлять" id="26d475f8-98d3-434c-af26-7dfa75409afe"/>
+			<Metadata name="Catalog.ОбнРасшGit_Расширения.Attribute.АдресРесурса" id="3a4e12b0-eca1-40b0-8c8a-abcebe5928dd"/>
+			<Metadata name="Catalog.ОбнРасшGit_Расширения.Attribute.ИмяПользователя" id="4141e2ec-e419-41e4-b3ca-1c7d3d786fca"/>
+			<Metadata name="Catalog.ОбнРасшGit_Расширения.Attribute.Пароль" id="5d8b4cbb-0f06-4e83-ad11-09a016cb9498"/>
+			<Metadata name="Catalog.ОбнРасшGit_Расширения.Attribute.АдресСервера" id="8d4213ed-914d-4176-8f7f-92afcb72074d"/>
+		</Metadata>
+		<Metadata name="Catalog.ОбнРасшGit_Расширения.Form.ФормаСписка" id="436cac7b-078e-4fcd-9dfd-4ad9a6338fea" configVersion="07cabc282217d3a04a5f08975bac162574688e17"/>
+		<Metadata name="Catalog.ОбнРасшGit_Расширения.Form.ФормаСписка.Form" id="436cac7b-078e-4fcd-9dfd-4ad9a6338fea.0" configVersion="540d8b2629a04789319f044fb253a04ce2d38427"/>
+		<Metadata name="Catalog.ОбнРасшGit_Расширения.Form.ФормаЭлемента" id="fb69dacd-5938-4881-8890-22a435c9cad4" configVersion="4dbe4574c6d874021870150c16da6c33c4bd5ec6"/>
+		<Metadata name="Catalog.ОбнРасшGit_Расширения.Form.ФормаЭлемента.Form" id="fb69dacd-5938-4881-8890-22a435c9cad4.0" configVersion="911251138c29011df58251d6500b085105a1fa6e"/>
+		<Metadata name="CommonModule.ОбнРасшGit_JSON" id="9518f210-ca8a-4074-943f-3ea653a80a2e" configVersion="a410a0731cc7e290faff4b51669e793c54b8aec4"/>
+		<Metadata name="CommonModule.ОбнРасшGit_JSON.Module" id="9518f210-ca8a-4074-943f-3ea653a80a2e.0" configVersion="49bb253c1dd0310d3c3ff9ef61c89cdafcd3b05f"/>
+		<Metadata name="CommonModule.ОбнРасшGit_Версии" id="8ed95e79-f901-4648-8b03-dbdf629cd90e" configVersion="cb59c3b3cd0798880eae66d2825d1c2c32bc5b13"/>
+		<Metadata name="CommonModule.ОбнРасшGit_Версии.Module" id="8ed95e79-f901-4648-8b03-dbdf629cd90e.0" configVersion="880a78e03725da3d75ee5ed439fc18cf6302840a"/>
+		<Metadata name="CommonModule.ОбнРасшGit_ОбщегоНазначения" id="01909238-18ee-433d-b4c0-77fd804dad8d" configVersion="214d352ca3cc9106dd7f6d42b90ecb908ea17b1d"/>
+		<Metadata name="CommonModule.ОбнРасшGit_ОбщегоНазначения.Module" id="01909238-18ee-433d-b4c0-77fd804dad8d.0" configVersion="11aa44081b13dff8c6304c3ca992b88654e57582"/>
+		<Metadata name="CommonModule.ОбнРасшGit_Расширения" id="1008d806-1fb0-4d2c-b644-7a79fbaae443" configVersion="f2b9464e70ce98a64906970a5f16cd61798bac43"/>
+		<Metadata name="CommonModule.ОбнРасшGit_Расширения.Module" id="1008d806-1fb0-4d2c-b644-7a79fbaae443.0" configVersion="90482c3e0e0883a261f55fcc72f5d7433ca96988"/>
+		<Metadata name="CommonModule.ОбнРасшGit_СтроковыеФункции" id="cab28518-979f-4c85-b232-bd4538d7e83c" configVersion="836bc76f574f32dc573558bc737ddbcbae69d024"/>
+		<Metadata name="CommonModule.ОбнРасшGit_СтроковыеФункции.Module" id="cab28518-979f-4c85-b232-bd4538d7e83c.0" configVersion="f6aca9c505495240a65084e7b57de4ec90aded2a"/>
+		<Metadata name="Configuration.ОбновлениеРасширенийСGit" id="ed9754eb-03ae-4c72-adc7-0e4b05685e9b" configVersion="0269fb00fab98175b79f41a68d0b58ad45044d13"/>
+		<Metadata name="Language.Русский" id="3fd78970-f54b-4184-ae28-844ca50a7954" configVersion="ff95e902b1bd5cebb4d3eea7803700aa74a5bf61"/>
+		<Metadata name="Role.ОбнРасшGit_ОсновнаяРоль" id="47ec81cb-fb91-4282-84b6-29ea40ade061" configVersion="ee3c601e7bffe1c69a6c4f12f9c9184b79f31334"/>
+		<Metadata name="Role.ОбнРасшGit_ОсновнаяРоль.Rights" id="47ec81cb-fb91-4282-84b6-29ea40ade061.0" configVersion="5750ac84909d07a27ba04b8d7746cde99384c3a8"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
